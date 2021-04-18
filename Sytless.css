@@ -1,0 +1,78 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+
+   
+}
+h1{
+    color:#34D399;
+}
+.div-class{
+    text-align: left;
+
+}
+.nav-bar{
+background-color:black;
+color: white;
+border-bottom-left-radius: 1rem;
+margin: auto;
+padding-bottom: 0.1rem;
+}
+.hero-pic{
+    padding-top: 1rem;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width:40%;
+    height:30%;
+ 
+}
+.nav-pic{
+    width:100px;
+    height:67px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+}
+.nav-bar .nav-ul{
+    text-align: right;
+}
+.nav-bar .nav-ul .link{
+text-decoration: none;
+list-style: none;
+display: inline;
+margin: auto;
+text-align: right;
+padding-right:2rem;
+
+}
+
+.nav-title{
+text-align: left;
+padding-left: 1rem;
+padding-bottom: 2rem;  
+}
+
+.link-active{
+color:#34D399;
+
+}
+
+.Content1{
+background-color: grey;
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+
+.footer{
+display: block;    
+background-color: black;
+text-align: center;
+padding-top: 5rem;
+padding-bottom: 5rem;
+color: white;
+}
+.link-color{
+    color:white;
+    padding-left: 1rem;
+    
